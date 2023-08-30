@@ -1,5 +1,5 @@
 <h1 align="center"> <b>Hi, I'm Fritz Kevin Manurung </b> <img src="https://media.giphy.com/media/4TCJPSwyAlQzOMlGZJ/giphy.gif" width= "75px"> </img></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=%22Fritz+Company%22;+just+a+dreamer;anyone+can+be+anything" alt="Typing SVG" /></a>>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=%22Fritz+Company%22;+just+a+dreamer;anyone+can+be+anything" alt="Typing SVG" /></a>
 
 
 ---  I am an active and highly motivated student who actively engages in various academic activities. With a strong determination and drive, I constantly seek opportunities to challenge myself and enhance my skills. I possess excellent adaptability, allowing me to quickly adjust to new situations and environments. Moreover, I thrive in team settings, effectively collaborating with others to achieve common goals. ---
